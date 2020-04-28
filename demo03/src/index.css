@@ -1,0 +1,17 @@
+.ReactRouter{
+    display: flex;
+}
+.ReactRouter .ReactRouterNav{
+    width:200px;
+    background: #61dafb;
+    height: 1000px;
+}
+.ReactRouter .ReactRouterMain {
+    flex:1;
+}
+.header-List{
+    display: flex;
+    list-style: none;
+    background: antiquewhite;
+    margin:0;
+}

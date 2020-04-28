@@ -1,0 +1,8 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import ReactRouter from './ReactRouter';
+
+ReactDOM.render(
+    <ReactRouter></ReactRouter>,
+  document.getElementById('root')
+);
